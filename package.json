@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SergeyTumancev/frontend-project-lvl1#readme",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "promptly": "^3.2.0"
   }
 }
